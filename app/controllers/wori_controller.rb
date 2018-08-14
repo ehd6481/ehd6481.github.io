@@ -1,0 +1,2 @@
+class WoriController < ApplicationController
+end
